@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/"/>
+    <qresource prefix="/muzyka">
+        <file>mixkit-click-error-1110.wav</file>
+        <file>mixkit-modern-click-box-check-1120.wav</file>
+    </qresource>
+    <qresource prefix="/zdjecia">
+        <file>zdjecia/exit.jpg</file>
+        <file>zdjecia/o1.bmp</file>
+        <file>zdjecia/osmall.bmp</file>
+        <file>zdjecia/x.bmp</file>
+        <file>zdjecia/xsmall.bmp</file>
+    </qresource>
+</RCC>

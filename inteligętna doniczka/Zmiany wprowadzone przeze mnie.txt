@@ -1,0 +1,10 @@
+Wprowadzone zmiany  
+• Zmiana treści kodu który obsługiwał makiete Maker Uno (początkowo układ załączał 
+się kiedy ziemia była sucha) 
+• Zmiana pompki na taką, która pobiera mniej prądu (z 600 mA na 69 mA), co 
+poprawia wydajność projektu. 
+• Dołożenie baterii, razem z ogniwami słonecznymi w celu samowystarczalności 
+zasilania Pompki wody (przed zmianą, zasilanie pompki było stałe) 
+• Zmiana tranzystora w module mocy, tak aby przełączał się z Napięciem 2V, zamiast 
+4V. 
+• Podłączenie całego układu, Logistyczne zmiany ułożenia elementów, poprawa lutów. 
